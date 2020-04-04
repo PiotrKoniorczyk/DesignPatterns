@@ -55,8 +55,11 @@ public class FlightLeg {
         }
 
         public FlightLegBuilder delayed(String delayed){
-            this.delayed = delayed;
-            return this;
+            if(delayed == null){
+                this.delayed = "Brak opóźnień";
+            }else this.delayed = delayed;
+
+             return this;
         }
 
         public FlightLegBuilder price (int price){

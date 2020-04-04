@@ -9,10 +9,6 @@ public class Main {
                 .to("Los Angeles")
                 .price(50)
                 .build();
-
-
                 System.out.println(leg);
     }
-
-
 }
