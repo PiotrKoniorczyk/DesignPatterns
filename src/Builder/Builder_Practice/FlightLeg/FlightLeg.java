@@ -67,7 +67,8 @@ public class FlightLeg {
         public FlightLeg build(){
             if(this.price == 0){
                 throw new IllegalStateException("Cena za lot jest wymagana");
-            }else if(delayed == null){
+            }
+            if(delayed == null){
                 this.delayed = "Brak opóźnień";
             }else this.delayed = delayed;
             return new FlightLeg(this);

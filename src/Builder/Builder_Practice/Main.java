@@ -7,7 +7,7 @@ public class Main {
         FlightLeg leg = new FlightLeg.FlightLegBuilder()
                 .from("Las Vegas")
                 .to("Los Angeles")
-                //.delayed("kjhkh")
+                .delayed("kjhkh")
                 .price(50)
                 .build();
                 System.out.println(leg);
