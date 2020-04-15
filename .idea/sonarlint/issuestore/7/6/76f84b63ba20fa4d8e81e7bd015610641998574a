@@ -1,0 +1,8 @@
+
+M
+java:S1068"2Remove this unused "productionYear" private field.(˜Õò’üÿÿÿÿ
+M
+java:S1068"2Remove this unused "engineCapacity" private field.(Ã÷Â¨ûÿÿÿÿ
+G
+java:S1068",Remove this unused "fuelType" private field.(ý¤˜ýúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆà³…

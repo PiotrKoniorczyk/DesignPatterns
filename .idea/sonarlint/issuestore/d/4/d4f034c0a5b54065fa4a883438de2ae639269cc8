@@ -1,0 +1,11 @@
+
+A
+java:S1068	"&Remove this unused "hp" private field.(Ğìëğüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯¦ëÚ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+O
+java:S2168"9Remove this dangerous instance of double-checked locking.(¤ô¶
+L
+java:S1068
+"1Remove this unused "characterName" private field.(èÜõÍúÿÿÿÿ
